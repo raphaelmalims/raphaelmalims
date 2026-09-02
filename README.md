@@ -4,7 +4,8 @@ Software engineer in Nairobi. Building [PersonaLearn](https://github.com/raphael
 
 Open to remote **Java / Spring Boot** roles in applied AI (RAG, agents, integrations).
 
-- [GitHub](https://github.com/raphaelmalims)
-- - [LinkedIn](https://www.linkedin.com/in/raphael-malims)
-  - - [PersonaLearn](https://github.com/raphaelmalims/personalearn)
-    - - [rent-revenue-data-pipeline](https://github.com/raphaelmalims/rent-revenue-data-pipeline)
+### Links
+[GitHub](https://github.com/raphaelmalims)
+[LinkedIn](https://www.linkedin.com/in/raphael-malims)
+[PersonaLearn](https://github.com/raphaelmalims/personalearn)
+[rent-revenue-data-pipeline](https://github.com/raphaelmalims/rent-revenue-data-pipeline)
